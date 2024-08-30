@@ -33,7 +33,7 @@ void exec1(){
         if(min > number[i]) min = number[i];
     }
     printf("avg = %f, max = %d, min = %d", avg, max, min);
-} // 동영상상
+} // 동영상
 void exec2(){
     int number[SIZE];
     int total = 0;
