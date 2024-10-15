@@ -137,7 +137,7 @@ int main(void){
                 }
             }
         } else if (inputManage == 4){
-            ItemFunc(inputItem, id);
+            OneItemFunc(inputItem, id);
         } else if(inputManage== 5){
             inputManageEnd = 0;
         }
