@@ -37,7 +37,7 @@ int main(){
         point[i] = temp;
     }
 
-    printf("----- after sorting -----\n");
+    printf("after sorting >>>>>>>>>>\n");
     for(int i=0; i<SIZE; i++){
         printf("point[%3d] : (%3d, %3d)\n", i, point[i].x, point[i].y);
     }
