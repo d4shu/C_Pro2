@@ -222,7 +222,7 @@ int main()
     LOTTO l, l2;
     int count;
     srand(time(NULL));
-    l = createAuto(20241034);
+    l = createAuto(20240911);
     l2 = drawingLotto();
     printLotto(l);
     printLotto(l2);
