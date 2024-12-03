@@ -1,5 +1,5 @@
-#ifndef _12_3_REPORT_H
-#define _12_3_REPORT_H
+#ifndef REPORT_H
+#define REPORT_H
 
 #include <stdio.h>
 #include <stdlib.h>
