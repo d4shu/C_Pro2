@@ -4,7 +4,7 @@ void_exec1(){
     
 #include <stdio.h>
 #include <time.h>
-#include "12_3_report.h"
+#include "report.h"
 
 int main(int argc, char* argv[]){
     time_t current;
@@ -37,7 +37,7 @@ void_exec2(){
     
 #include <stdio.h>
 #include <time.h>
-#include "12_3_report.h"
+#include "report.h"
 
 int main(int argc, char* argv[]){
     week2(atoi(argv[1]), atoi(argv[2]), atoi(argv[3]));
