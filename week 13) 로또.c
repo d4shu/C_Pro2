@@ -38,7 +38,7 @@ int main()
 {
     LOTTO l;
     
-    l = createManual(20241034);
+    l = createManual(20240911);
     printLotto(l);
     
     
@@ -115,7 +115,7 @@ int main()
 {
     LOTTO l;
     srand(time(NULL));
-    l = createAuto(20241034);
+    l = createAuto(20240911);
     printLotto(l);
     
     
